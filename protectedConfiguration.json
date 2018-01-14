@@ -1,0 +1,13 @@
+{
+  "AzureAd": {
+    "Instance": "CfDJ8ATo2Owr2d1HvH115HgMYdYSJKkcF8Mf7Dtiro84739EoCR2O3GShWx2MjQYN8ubF3qs2sSnrV6F5gTLEN7Bcm24pR3SkLlfSkDb_HUNCrMBiilChNWDn3U_I-8lfvm2uSn3QODQJuwTcDWIF5Fp9hFciviYzDXj9fwtzqHkDzmK",
+    "ClientId": "11111111-1111-1111-11111111111111111",
+    "CallbackPath": "/signin-oidc"
+  },
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  }
+}
